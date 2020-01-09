@@ -4,7 +4,7 @@
 
 ## Description
 
-A prototype file browser implemented with Java Swing (GUI) that provides most of the basic functionalities.
+A prototype file browser (GUI) implemented with Java Swing, providing limited / basic functionality.
 
 
 ### Notes
